@@ -1,0 +1,41 @@
+
+.divClass {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#thirdDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: rgb(34, 103, 105);
+    padding: 50px;
+    border-width: 8px;
+    border-style: groove;
+    border-radius: 15px;
+    border-color: darkgoldenrod;
+    font-size: 20px;
+    font-family:monospace;
+}
+#spanId {
+    display: flex;
+    font-size: 18px;
+    margin: 50px;
+    align-items: center;
+}
+h1 {
+    display: flex;
+    color: rgb(32, 68, 68);
+    align-items: center;
+}
+img {
+    display: flex;
+    width: 400px;
+    align-items: center;
+}
