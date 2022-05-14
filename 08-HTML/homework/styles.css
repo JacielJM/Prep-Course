@@ -1,4 +1,7 @@
-
+body {
+    background-image: url("https://blog.ccidiomas.es/wp-content/uploads/2017/01/taberna-irlandesa.jpg");
+    background-size: cover;
+}
 .divClass {
     display: flex;
     flex-direction: column;
@@ -14,7 +17,7 @@
     height: 600px;
     max-width: 500px;
     margin: 0 auto;
-    background-color: rgb(34, 103, 105);
+    background-color: rgb(105, 122, 122);
     padding: 50px;
     border-width: 8px;
     border-style: groove;
@@ -31,7 +34,7 @@
 }
 h1 {
     display: flex;
-    color: rgb(32, 68, 68);
+    color: rgb(255, 255, 255);
     align-items: center;
 }
 img {
