@@ -213,7 +213,7 @@ function obtenerSaludo(nombre) {
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
   // Tu código:
-  var ar = alto * ancho;
+  var aR = alto * ancho;
   return ar;
 }
 
@@ -229,7 +229,7 @@ function retornarPerimetro(lado){
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
-  var at = (base * altura) / 2;
+  var aT = (base * altura) / 2;
   return at;
 }
 
