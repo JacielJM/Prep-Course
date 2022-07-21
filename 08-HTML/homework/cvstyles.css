@@ -1,53 +1,56 @@
 body {
-    background-color:ivory;
-    padding: 40px;
-    font-family: sans-serif, serif;
+  background-color: ivory;
+  padding: 40px;
+  font-family: sans-serif, serif;
 }
 
 .sup {
-    background-color:#EBF5FB; 
-  }
-
- 
-.inf {
-    background-color: beige;
+  background-color: #ebf5fb;
 }
-.sup, 
-.inf {
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-  }
 
-h1, h2 {
- font-family: sans-serif, serif;
+.inf {
+  background-color: beige;
+}
+.sup,
+.inf {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+h1,
+h2 {
+  font-family: sans-serif, serif;
 }
 
 h1 {
-    padding: 0px;
-    color:darkblue
+  padding: 0px;
+  color: darkblue;
 }
 
 img {
-    width: 200px;
-    margin-bottom: 30px;
+  width: 200px;
+  margin-bottom: 30px;
 }
 
 .descripcion {
-    font-style: italic;
-    color: #595959;
+  font-style: italic;
+  color: #595959;
 }
 
 .descripcion,
 .educacion,
 .experiencia,
-.hobbies, .skills {
+.hobbies,
+.skills {
   margin-bottom: 30px;
 }
 
-.exp-title, .skills-title,
-.edu-title, .hobbies-title {
+.exp-title,
+.skills-title,
+.edu-title,
+.hobbies-title {
   color: #2a2a2a;
   font-size: 22px;
   line-height: 1.5;
@@ -66,7 +69,7 @@ img {
   line-height: 0.5;
 }
 
-.exp-item,  
+.exp-item,
 .skills-item,
 .hobbie-item {
   color: #595959;
@@ -74,10 +77,11 @@ img {
   line-height: 1.714;
 }
 
-.escuela, .empresa {
+.escuela,
+.empresa {
   color: #ff6b08;
 }
 
 .list {
-    padding-bottom: 10px;
+  padding-bottom: 10px;
 }
